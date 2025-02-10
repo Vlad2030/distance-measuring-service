@@ -1,6 +1,6 @@
 # distance-measuring-service
 
-Microservice to calculate distance between location points
+Microservice to calculate distance between coordinate points. Written in Rust
 
 ## Endpoints
 
