@@ -16,7 +16,7 @@ Available units to calculate
 }
 ```
 
-### POST /distance
+### POST `/distance`
 
 Calculate distance
 
