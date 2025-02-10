@@ -85,7 +85,7 @@ LOG_LEVEL=info
 ### Start docker containers
 
 ```
-docker-compose -f docker-compose.prod.yaml up -d
+docker-compose -f docker-compose.yaml up -d
 ```
 
 ## Tests
